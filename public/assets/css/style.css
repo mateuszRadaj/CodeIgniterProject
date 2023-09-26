@@ -1,0 +1,8 @@
+@font-face {
+    font-family: Skranji;
+    src: url('<?php echo base_url(assets/fonts/Skranji-Regular.tff)?>') format('truetype');
+}
+
+body{
+    font-family: Skranji;
+}
